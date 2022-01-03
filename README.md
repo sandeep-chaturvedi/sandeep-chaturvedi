@@ -1,5 +1,11 @@
 ### Hi there 👋, I am Deep Chaturvedi
 
+I'm a Web and Mobile App Developer
+🌱 Learning as many things I can 😆
+👯 I’m looking to collaborate with other content creators
+🥅 2021 Goals: Contribute to Open Source projects
+
+
 <!--
 **DeepChaturvedi007/DeepChaturvedi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
