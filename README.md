@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Deep Chaturvedi
 
 I'm a Web and Mobile App Developer
+<hr>
 🌱 Learning as many things I can 😆
 👯 I’m looking to collaborate with other content creators
 🥅 2021 Goals: Contribute to Open Source projects
