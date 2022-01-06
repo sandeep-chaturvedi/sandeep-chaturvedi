@@ -1,17 +1,5 @@
-<style>
-img
-{
-    display:block;
-    float:none;
-    margin-left:auto;
-    margin-right:auto;
-    width:60%;
-}
-</style>
+![](https://i.stack.imgur.com/RJj4x.png)
 
-<style>
-  .markdown-body img { width : 100% }
- </style>
 
 ### Hi there 👋, I am Deep Chaturvedi
 
