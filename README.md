@@ -1,4 +1,13 @@
-- ![#f03c15] .markdown-body img { width : 100% } `#f03c15`
+<style>
+img
+{
+    display:block;
+    float:none;
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+</style>
 
 <style>
   .markdown-body img { width : 100% }
