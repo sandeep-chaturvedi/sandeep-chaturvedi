@@ -7,7 +7,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepchaturvedi007&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepchaturvedi007&theme=solarized)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeepChaturvedi007)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DeepChaturvedi007)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepChaturvedi007)
 <!--
 **DeepChaturvedi007/DeepChaturvedi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
