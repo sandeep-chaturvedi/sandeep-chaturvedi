@@ -1,6 +1,3 @@
-![css](https://github.com/DeepChaturvedi007/DeepChaturvedi007/blob/c3ea8bf877d7ce93407c2a4b368826f909d7dac3/style.css) `css`
-
-<link rel="style" src="https://github.com/DeepChaturvedi007/DeepChaturvedi007/blob/c3ea8bf877d7ce93407c2a4b368826f909d7dac3/style.css">
 ### Hi there 👋, I am Deep Chaturvedi
 
 
