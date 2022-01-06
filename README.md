@@ -1,4 +1,4 @@
-![](https://i.stack.imgur.com/RJj4x.png)
+![](https://github.com/DeepChaturvedi007/DeepChaturvedi007/style.css)
 
 
 ### Hi there 👋, I am Deep Chaturvedi
