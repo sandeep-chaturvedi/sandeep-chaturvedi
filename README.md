@@ -1,4 +1,9 @@
+<style>
+  .markdown-body img { width : 100% }
+ </style>
+
 ### Hi there 👋, I am Deep Chaturvedi
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepchaturvedi007&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepchaturvedi007&theme=monokai)
