@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Deep Chaturvedi
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepchaturvedi007&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepchaturvedi007&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepchaturvedi007&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepchaturvedi007&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepchaturvedi007&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepchaturvedi007&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepchaturvedi007&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepchaturvedi007&theme=monokai)
 
