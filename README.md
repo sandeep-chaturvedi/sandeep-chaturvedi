@@ -1,3 +1,5 @@
+- ![#f03c15] .markdown-body img { width : 100% } `#f03c15`
+
 <style>
   .markdown-body img { width : 100% }
  </style>
