@@ -1,6 +1,10 @@
 ### Hi there 👋, I am Deep Chaturvedi
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepchaturvedi007&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepchaturvedi007&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepchaturvedi007&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepchaturvedi007&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepchaturvedi007&theme=monokai)
 
 <!--
 **DeepChaturvedi007/DeepChaturvedi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
