@@ -1,4 +1,4 @@
-### Hi there 👋, I am Deep Chaturvedi
+### Hi there 👋, I am Sandeep Chaturvedi
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepchaturvedi007&theme=solarized)
