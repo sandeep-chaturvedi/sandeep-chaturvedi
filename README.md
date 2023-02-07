@@ -1,7 +1,35 @@
+# Hi, I'm Katherine! 👋
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+
+## Features
+
+
 Hey Viewer 👋, 
 
 Thanks for reaching out here, I am having 8+ years of experience in ReactNative Mobile Application Development. I have developed various applications for food delivery, Car wash, eBook Reading, Online Classes, eCommerce online product selling
 
+
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="100">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="100">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="100">
+<img src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png" width="100">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="100">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepchaturvedi007&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepchaturvedi007&theme=solarized)
