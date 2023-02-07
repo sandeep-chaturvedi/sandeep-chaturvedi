@@ -8,9 +8,10 @@ I am having 8+ years of experience with Website Designing/Development, Backend A
 ## 🛠 Skills
 
 #### Languages I have expertise in : 
-&bull; HTML, &bull; PHP, &bull; CSS, &bull; javascript, &bull; jQuery, &bull; MYSQL database, &bull; Bootstrap, &bull; Material UI, &bull; Datatables, &bull; Ajax (8+ years)<br>
+&bull; HTML &bull; PHP &bull; CSS &bull; javascript &bull; jQuery &bull; MYSQL database &bull; Bootstrap &bull; Material UI &bull; Datatables &bull; Ajax (8+ years)<br>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="30"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png" width="30"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="30">
 
-#### Frameworks I have 
+### Frameworks I have 
 &bull; ReactJs (5+ years)<br>
 &bull; NextJs  (3+ years)<br>
 &bull; Laravel (3+ years)<br>
@@ -40,11 +41,7 @@ Thanks for reaching out here, I am having 8+ years of experience in ReactNative 
 
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="100">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="100">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="100">
-<img src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png" width="100">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="100">
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepchaturvedi007&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepchaturvedi007&theme=solarized)
