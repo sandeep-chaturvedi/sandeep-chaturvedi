@@ -1,12 +1,27 @@
-# Hi, I'm Katherine! 👋
-
+## Hey Viewer, I'm Sandeep! 👋
+Full Stack Software Engineer
 
 ## 🚀 About Me
-I'm a full stack developer...
+I am having 8+ years of experience with Website Designing/Development, Backend API Development & Mobile Application Designing/Development. In past 8 years of my career I have completed 250+ projects including many of enterprise level softwares for different type of services and industries like food delivery service, Car wash service, online eBook Reading, Online Classes and School Management, eCommerce website for online product selling and many others...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+
+#### Languages I have expertise in : 
+&bull; HTML, &bull; PHP, &bull; CSS, &bull; javascript, &bull; jQuery, &bull; MYSQL database, &bull; Bootstrap, &bull; Material UI, &bull; Datatables, &bull; Ajax (8+ years)<br>
+
+#### Frameworks I have 
+&bull; ReactJs (5+ years)<br>
+&bull; NextJs  (3+ years)<br>
+&bull; Laravel (3+ years)<br>
+&bull; PhpFox (1 year)<br>
+&bull; Wordpress (2+ years)<br>
+&bull; TypeScrit (5+ years)<br>
+&bull; ReactNative (6+ years)<br>
+&bull; ReactExpo  (5+ years)<br>
+&bull; Flutter (1 year)<br>
+&bull; Codeigniter (2+ years)
+
 
 
 ## Tech Stack
