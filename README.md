@@ -24,8 +24,22 @@ I am having 8+ years of experience with Website Designing/Development, Backend A
 &bull; Codeigniter (2+ years)
 
 ## Tech Stack
-**Client:** &nbsp; &nbsp; Redux &bull; Redux Persist &bull; Redux Saga &bull; TailwindCSS &bull; Bootstrap &bull; ChakraUI &bull; RNUILib &bull; Bootstrap &bull; Material UI &bull; Datatables &bull;<br>
-**Server:** &nbsp; &nbsp; Node &bull; Express &bull; Laravel
+**Client:** 
+<br>&bull; Redux 
+<br>&bull; Redux Persist 
+<br>&bull; Redux Saga 
+<br>&bull; TailwindCSS 
+<br>&bull; Bootstrap 
+<br>&bull; ChakraUI 
+<br>&bull; RNUILib 
+<br>&bull; Bootstrap 
+<br>&bull; Material UI 
+<br>&bull; Datatables<br>
+
+**Server:** 
+<br>&bull; Node 
+<br>&bull; Express 
+<br>&bull; Laravel
 
 
 ## Features
