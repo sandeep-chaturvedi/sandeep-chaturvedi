@@ -23,44 +23,20 @@ I am having 8+ years of experience with Website Designing/Development, Backend A
 &bull; Flutter (1 year)<br>
 &bull; Codeigniter (2+ years)
 
-
-
 ## Tech Stack
-
 **Client:** React, Redux, TailwindCSS
-
 **Server:** Node, Express
 
 
 ## Features
+&bull; Rest API Development<br>
+&bull; Backend Designing/Development<br>
+&bull; Push notifications (Firebase/OneSignal), Email sending, PDF editing feature<br>
+&bull; User authentication (Rest API based/Aws/Firebase/Social LogIn etc)<br>
+&bull; Schedule event, Work with dates and calendar set reminders with notification.<br>
+&bull; Admin panel and CRM<br>
+&bull; Graphs and charts <br>
+&bull; Responsive website designing<br>
+&bull; Photoshop App Designing<br>
+&bull; Figma UI/UX Designing<br>
 
-
-Hey Viewer 👋, 
-
-Thanks for reaching out here, I am having 8+ years of experience in ReactNative Mobile Application Development. I have developed various applications for food delivery, Car wash, eBook Reading, Online Classes, eCommerce online product selling
-
-
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepchaturvedi007&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepchaturvedi007&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepchaturvedi007&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepchaturvedi007&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepchaturvedi007&theme=solarized)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DeepChaturvedi007)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepChaturvedi007)
-<!--
-**DeepChaturvedi007/DeepChaturvedi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
