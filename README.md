@@ -24,8 +24,8 @@ I am having 8+ years of experience with Website Designing/Development, Backend A
 &bull; Codeigniter (2+ years)
 
 ## Tech Stack
-**Client:** React, Redux, TailwindCSS
-**Server:** Node, Express
+**Client:** <br>Redux &bull; Redux Persist &bull; Redux Saga &bull; TailwindCSS &bull; Bootstrap &bull; ChakraUI &bull; RNUILib<br>
+**Server:** Node &bull; Express &bull; Laravel
 
 
 ## Features
@@ -40,3 +40,4 @@ I am having 8+ years of experience with Website Designing/Development, Backend A
 &bull; Photoshop App Designing<br>
 &bull; Figma UI/UX Designing<br>
 
+<br>Thanks for reaching out here...
