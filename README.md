@@ -36,7 +36,7 @@ I am having 8+ years of experience with Website Designing/Development, Backend A
 <br>&bull; Material UI 
 <br>&bull; Datatables<br>
 
-**Client:** 
+**Payment Gateways:** 
 <br>&bull; Stripe
 <br>&bull; Paypal
 <br>&bull; Dwolla
