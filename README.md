@@ -12,12 +12,12 @@ I am having 8+ years of experience with Website Designing/Development, Backend A
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="30"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png" width="30"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="30">
 
 ### Frameworks I have expertise in : 
-&bull; ReactJs (5+ years)<br>
+&bull; ReactJs (6+ years)<br>
 &bull; NextJs  (3+ years)<br>
-&bull; Laravel (3+ years)<br>
+&bull; Laravel (5+ years)<br>
 &bull; PhpFox (1 year)<br>
 &bull; Wordpress (2+ years)<br>
-&bull; TypeScrit (5+ years)<br>
+&bull; TypeScript (5+ years)<br>
 &bull; ReactNative (6+ years)<br>
 &bull; ReactExpo  (5+ years)<br>
 &bull; Flutter (1 year)<br>
@@ -35,6 +35,12 @@ I am having 8+ years of experience with Website Designing/Development, Backend A
 <br>&bull; Bootstrap 
 <br>&bull; Material UI 
 <br>&bull; Datatables<br>
+
+**Client:** 
+<br>&bull; Stripe
+<br>&bull; Paypal
+<br>&bull; Dwolla
+<br>&bull; Plaid<br>
 
 **Server:** 
 <br>&bull; Node 
