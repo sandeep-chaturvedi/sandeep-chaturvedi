@@ -12,7 +12,15 @@ I am having 8+ years of experience with Website Designing/Development, Backend A
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="30"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png" width="30"> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="30">
 
 ### Frameworks I have expertise in : 
-<table><tr><td></td></tr></table>
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+    </tr>
+   </tbody>
+</table>
 &bull; ReactJs (6+ years)<br>
 &bull; NextJs  (3+ years)<br>
 &bull; Laravel (5+ years)<br>
