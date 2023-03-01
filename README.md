@@ -33,7 +33,8 @@ I am having 8+ years of experience with Website Designing/Development, Backend A
 <br>&bull; ChakraUI 
 <br>&bull; RNUILib 
 <br>&bull; Bootstrap 
-<br>&bull; Material UI 
+<br>&bull; Material UI (MUI)
+<br>&bull; Ant.Design
 <br>&bull; Datatables<br>
 
 **Payment Gateways:** 
