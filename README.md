@@ -29,6 +29,7 @@ I am having 8+ years of experience with Website Designing/Development, Backend A
 <br>&bull; Redux Persist 
 <br>&bull; Redux Saga 
 <br>&bull; TailwindCSS 
+<br>&bull; TailwindElements
 <br>&bull; Bootstrap 
 <br>&bull; ChakraUI 
 <br>&bull; RNUILib 
