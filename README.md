@@ -330,14 +330,6 @@ I am a strong believer in continuous learning and constantly keeping up with the
 
 ---
 
-## 📫 How to Reach Me
-
-Feel free to reach out if you'd like to collaborate or just chat about technology! Here's how you can contact me:
-
-- **Email:** [shashi.iphtech2@gmail.com](mailto:your.email@example.com)
-
----
-
 ## 🔧 Tools & Technologies
 
 Here are some of the key tools and technologies I work with:
